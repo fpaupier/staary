@@ -1,0 +1,1 @@
+zip -r staary.zip icons/ manifest.json staary.css

@@ -1,2 +1,4 @@
 # ignore webstorm config
 .idea
+
+*.zip

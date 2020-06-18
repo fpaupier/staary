@@ -2,9 +2,9 @@
 
   "manifest_version": 2,
   "name": "Staary",
-  "version": "1.0",
+  "version": "1.1",
 
-  "description": "Remove side-bar on Stack Overflow",
+  "description": "Remove sidebar on Stack Overflow",
 
   "icons": {
     "48": "icons/staryu-48.png",
